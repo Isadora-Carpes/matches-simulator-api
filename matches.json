@@ -8,12 +8,12 @@
      "mandante": {
        "nome": "Atlético-GO",
        "forca": 2,
-       "imagem": "TODO"
+       "imagem": "https://logodetimes.com/wp-content/uploads/atletico-goianiense.png"
     },
     "visitante": {
        "nome": "Corinthians",
        "forca": 4,
-       "imagem": "TODO"
+       "imagem": "https://logodetimes.com/wp-content/uploads/corinthians.png"
    }
   }
 ]
