@@ -1,1 +1,19 @@
-
+[
+  {
+    "drecicao": "Quartas de final da Copa do Brasil - Jogos 1",
+    "local": {
+      "nome": "Serra Dourada",
+      "imagem": "TODO"
+     }
+     "mandante": {
+      "nome": "Atlético-GO",
+      "forca": 2,
+      "imagem": "TODO"
+    }
+    "visitante": {
+      "nome": "Corinthians",
+      "forca": 4,
+      "imagem": "TODO"
+   }
+  }
+]
