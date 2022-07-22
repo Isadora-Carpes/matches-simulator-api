@@ -3,7 +3,7 @@
     "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
     "local": {
       "nome": "Serra Dourada",
-      "imagem": "TODO"
+      "imagem": "https://www.jornalopcao.com.br/wp-content/uploads/2020/06/SerraDourada.png"
      },
      "mandante": {
        "nome": "Atlético-GO",
@@ -20,7 +20,7 @@
     "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-maracana-vista-aerea.jpg"
      },
      "mandante": {
        "nome": "Flamengo",
@@ -37,7 +37,7 @@
     "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
     "local": {
       "nome": "Morumbi",
-      "imagem": "TODO"
+      "imagem": "https://www.estadios.net/wp-content/uploads/2018/10/estadio-do-morumbi-vista-aerea.jpg"
      },
      "mandante": {
        "nome": "São Paulo",
@@ -53,8 +53,8 @@
   {
     "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
     "local": {
-      "nome": "Castelão",
-      "imagem": "TODO"
+      "nome": "Arena Castelão",
+      "imagem": "https://t2.uc.ltmcdn.com/pt/posts/9/4/7/como_chegar_a_arena_castelao_em_fortaleza_10749_orig.jpg"
      },
      "mandante": {
        "nome": "Fortaleza",
