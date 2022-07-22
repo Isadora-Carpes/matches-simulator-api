@@ -15,5 +15,56 @@
        "forca": 4,
        "imagem": "https://www.escudosfc.com.br/images/corinthians.png"
    }
+  },
+  {
+    "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+     },
+     "mandante": {
+       "nome": "Flamengo",
+       "forca": 5,
+       "imagem": "https://www.escudosfc.com.br/images/fla.png"
+    },
+    "visitante": {
+       "nome": "Athletico-PR",
+       "forca": 3,
+       "imagem": "https://www.escudosfc.com.br/images/atlpr.png"
+   }
+  },
+  {
+    "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
+    "local": {
+      "nome": "Morumbi",
+      "imagem": "TODO"
+     },
+     "mandante": {
+       "nome": "São Paulo",
+       "forca": 4,
+       "imagem": "https://www.escudosfc.com.br/images/saopaulo.png"
+    },
+    "visitante": {
+       "nome": "América-MG",
+       "forca": 2,
+       "imagem": "https://www.escudosfc.com.br/images/ammg.png"
+   }
+  },
+  {
+    "descricao": "Quartas de final da Copa do Brasil 2022 - Jogo 1",
+    "local": {
+      "nome": "Castelão",
+      "imagem": "TODO"
+     },
+     "mandante": {
+       "nome": "Fortaleza",
+       "forca": 3,
+       "imagem": "https://www.escudosfc.com.br/images/fortaleza.png"
+    },
+    "visitante": {
+       "nome": "Fluminense",
+       "forca": 3,
+       "imagem": "https://www.escudosfc.com.br/images/fluminense.png"
+   }
   }
 ]
